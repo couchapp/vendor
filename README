@@ -1,0 +1,6 @@
+default couchapp vendor.
+------------------------
+
+Upgrade your couchapp vendor using the command:
+
+couchapp vendor update git://github.com/couchapp/vendor.git
